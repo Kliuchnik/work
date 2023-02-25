@@ -1,2 +1,2 @@
 const test = "hello";
-alert("hello word!")
+alert("Привет!")
